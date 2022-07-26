@@ -1,3 +1,4 @@
+package sleepwait;
 public class SleepWait
 {
     private static Object LOCK = new Object();
