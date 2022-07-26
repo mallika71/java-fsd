@@ -1,3 +1,4 @@
+package email;
 import java.util.regex.*;    
 import java.util.*;    
 public class emailId{  
