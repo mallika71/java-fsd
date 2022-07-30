@@ -7,8 +7,8 @@ public class DELETEFILE {
 	
 	    public static void main(String[] args)
 	    {
-	        File file
-	            = new File("newdata.txt");
+	        File file= new File("newdata.txt");
+
 	 
 	        if (file.delete()) {
 	            System.out.println("File deleted successfully");
