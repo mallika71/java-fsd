@@ -1,7 +1,7 @@
-package linearSearch;
+package Searching;
 
 import java.util.Scanner;
-public class linear {
+public class linearsearch45 {
 	
 	public static void main(String[] args) {
 		int arr[]={23,45,67,89,29,67,189,109};
