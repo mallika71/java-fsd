@@ -6,7 +6,7 @@ public static void main(String[] args) {
 		// no encapsulation
 		Student student = new Student();
 		student.id = 1;
-		student.name = "RK";
+		student.name = "harsha";
 		student.courseName = "JAVAFSD";
 		student.printDetails();
 		
